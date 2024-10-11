@@ -1,0 +1,20 @@
+{
+  "name": "trabajo-final-node.js",
+  "version": "1.0.0",
+  "description": "Trabajo práctico integrador FINAL para el curso de Desarrollo con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Santiago Vega",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
